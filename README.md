@@ -8,4 +8,4 @@ Compilation of collision detection algorithms implemented in several language.
 
 ## Resources
 ### Processing
-- [Jeff's Thompson Collision Detection] (https://www.jeffreythompson.org/collision-detection/index.php)
+- [Jeff's Thompson Collision Detection](https://www.jeffreythompson.org/collision-detection/index.php)
